@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a MERN Recipe Web Application<br>🌱 I’m currently learning AI & Data Science<br>⚡ Fun fact : Self-taught programmer who grew up in Africa
+🔭 I’m currently working on a MERN Recipe Web Application. You can view the site from [this link](https://projsalty.vercel.app)<br>🌱 I’m currently learning AI & Data Science<br>⚡ Fun fact : Self-taught programmer who grew up in Africa
 
 
 ## 🌐 Socials:
